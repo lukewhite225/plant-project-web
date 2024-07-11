@@ -1,0 +1,45 @@
+.homepage1 {
+    color: #34A56F;
+    background-color: #02252C;
+}
+
+.header {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+}
+
+#paragraph1 {
+    font-size: larger;
+    color: #34A56F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    list-style-position: inside;
+}
+
+img {
+    width: 25%;
+}
+
+#banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Southeastern-Louisiana-University-bg-1808665308.jpg');
+    width: 100%; 
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#bannerimg {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
