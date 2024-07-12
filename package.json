@@ -11,11 +11,12 @@
   "description": "",
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "serialport": "^12.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.4"
     "express": "^4.19.2",
-    "onoff": "^6.0.3"
+    "onoff": "^6.0.3",
+    "tailwindcss": "^3.4.4"
   }
 }
